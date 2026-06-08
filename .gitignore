@@ -1,0 +1,6 @@
+# Ignore Python compiled bytecode
+__pycache__/
+*.pyc
+
+# Ignore local data outputs
+*.csv
